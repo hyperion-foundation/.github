@@ -9,10 +9,10 @@ We also have Discord servers. If you interested to join our community, you can j
 
 This is the list of our project:
 - Websites
-  - Landing - [https://www.hyperfoundation.my.id](https://www.hyperfoundation.xyz)
-  - Landing (Dev) - [https://www-dev.hyperfoundation.my.id](https://www-dev.hyperfoundation.xyz)
-  - Blog - [https://blog.hyperfoundation.my.id](https://blog.hyperfoundation.xyz)
-  - CDN - [https://cdn.hyperfoundation.my.id](https://cdn.hyperfoundation.xyz)
+  - Landing - [https://www.hyperfoundation.xyz](https://www.hyperfoundation.xyz)
+  - Landing (Dev) - [https://www-dev.hyperfoundation.xyz](https://www-dev.hyperfoundation.xyz)
+  - Blog - [https://blog.hyperfoundation.xyz](https://blog.hyperfoundation.xyz)
+  - CDN - [https://cdn.hyperfoundation.xyz](https://cdn.hyperfoundation.xyz)
   - Member Verification/Dashboard - Under development
 - Bots
   - Shaii
